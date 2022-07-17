@@ -10,4 +10,4 @@ client.connect(err => {
 });
 
 db = client.test
-print(db)
+print(db)afnsdjklfgjksd
